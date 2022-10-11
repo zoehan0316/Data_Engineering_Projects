@@ -67,7 +67,7 @@ To check how many users are paid or unpaid to listen music.
 ```
 %sql SELECT level, count(level) from users group by level
 ```
-####Result:
+#### Result:
 - free: 76
 - paid: 20
 
