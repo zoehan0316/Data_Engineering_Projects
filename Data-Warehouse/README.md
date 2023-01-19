@@ -36,7 +36,7 @@ The log files in the dataset you'll be working with are partitioned by year and 
 
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
 
-![](log-data.png)
+![](image/log-data.png)
 
 ## 3.Schema for Song Play Analysis
 
